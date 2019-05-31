@@ -1,21 +1,21 @@
 # Site
-repository: sproogen/jameswgrant
+repository: Ttongyhhxx/Resume-ZT
 favicon: images/favicon.ico
 
 # Personal info
-name: James Grant
-title: Full Stack & Mobile Developer
-email: james@jwgmedia.co.uk
-website: www.jwgmedia.co.uk
+name: Zhang Tong
+title: Master of Microbiology
+email: zhangtongnihao@gmail.com
+website: https://tongtyhhxx.github.io
 
 # Social links
-twitter_username: sproogen
-github_username:  sproogen
+twitter_username: zhangtongnihao
+github_username:  tongtyhhxx
 # dribbble_username:
-# facebook_username:
+facebook_username: ton.zhang.7
 # flickr_username:
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: zhtyinshuiren
+# linkedin_username:
 # pinterest_username:
 # youtube_username:
 # googleplus_username:
@@ -24,7 +24,7 @@ linkedin_username: jameswgrant
 # about_title: About Me
 about_profile_image: images/jg.jpg
 about_content: |
-  Hi, my name is James Grant, I'm a full stack web and mobile app developer with over 6 years experience, based in the South West.
+  Hi, my name is Zhang Tong, I'm a full stack web and mobile app developer with over 6 years experience, based in the South West.
   I am currently working for the Royal Bank of Scotland as a frontend software engineer on a comercial banking platform.
 
   I enjoy making clean and interactive UI that is quick and easy to use whilst also giving users an enjoyable experience.
